@@ -1,0 +1,12 @@
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/util/VelocityInitializer.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/util/VelocityUtils.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/mapper/GenTableColumnMapper.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/constant/GenConstants.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/mapper/GenTableMapper.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/config/GenConfig.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/service/GenTableServiceImpl.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/controller/GenController.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/service/IGenTableService.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/domain/GenTable.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/domain/GenTableColumn.java
+/home/runner/work/okx-open/okx-open/ruoyi-modules/ruoyi-generator/src/main/java/org/dromara/generator/util/GenUtils.java

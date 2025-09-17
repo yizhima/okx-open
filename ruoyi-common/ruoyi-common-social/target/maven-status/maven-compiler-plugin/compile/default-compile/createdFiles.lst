@@ -1,0 +1,16 @@
+org/dromara/common/social/config/properties/SocialProperties__Javadoc.json
+org/dromara/common/social/config/SocialAutoConfiguration.class
+META-INF/spring-configuration-metadata.json
+org/dromara/common/social/config/properties/SocialLoginConfigProperties__Javadoc.json
+org/dromara/common/social/config/properties/SocialProperties.class
+org/dromara/common/social/utils/SocialUtils.class
+org/dromara/common/social/maxkey/AuthMaxKeySource__Javadoc.json
+org/dromara/common/social/utils/SocialUtils__Javadoc.json
+org/dromara/common/social/maxkey/AuthMaxKeyRequest.class
+org/dromara/common/social/utils/AuthRedisStateCache.class
+org/dromara/common/social/maxkey/AuthMaxKeySource.class
+org/dromara/common/social/config/SocialAutoConfiguration__Javadoc.json
+org/dromara/common/social/maxkey/AuthMaxKeyRequest__Javadoc.json
+org/dromara/common/social/maxkey/AuthMaxKeySource$1.class
+org/dromara/common/social/utils/AuthRedisStateCache__Javadoc.json
+org/dromara/common/social/config/properties/SocialLoginConfigProperties.class

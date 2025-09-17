@@ -1,0 +1,12 @@
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/annotation/TranslationType.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/impl/DeptNameTranslationImpl.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/constant/TransConstant.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/TranslationInterface.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/handler/TranslationBeanSerializerModifier.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/impl/DictTypeTranslationImpl.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/impl/UserNameTranslationImpl.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/annotation/Translation.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/impl/NicknameTranslationImpl.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/config/TranslationConfig.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/impl/OssUrlTranslationImpl.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-translation/src/main/java/org/dromara/common/translation/core/handler/TranslationHandler.java
