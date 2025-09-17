@@ -59,6 +59,7 @@ org/dromara/okx/protocol/account/Positions$Response.class
 org/dromara/okx/util/DingMonitorCloseRobot.class
 org/dromara/okx/protocol/market/Ticker.class
 org/dromara/okx/protocol/trade/OrderCancel$Data.class
+org/dromara/okx/util/KeyUtil__Javadoc.json
 org/dromara/okx/protocol/trade/OrdersAlgoPending$Response.class
 org/dromara/okx/test/DingTest.class
 org/dromara/okx/protocol/trade/OrderQuery$Request.class
@@ -68,6 +69,7 @@ org/dromara/okx/domain/bo/ClientUserBo__Javadoc.json
 org/dromara/okx/protocol/account/Balance$Data.class
 org/dromara/okx/protocol/trade/OrderAmend$Response.class
 org/dromara/okx/protocol/system/Status.class
+org/dromara/okx/util/DataSyncUtil__Javadoc.json
 org/dromara/okx/api/MarketApi.class
 org/dromara/okx/protocol/trade/OrderAlgo$Data.class
 org/dromara/okx/service/impl/CopytradingInfoServiceImpl__Javadoc.json
@@ -248,6 +250,7 @@ org/dromara/okx/protocol/trade/Order$Request__Javadoc.json
 org/dromara/okx/protocol/CopyTrading/CopyTradingCurrentSubpositions$Response.class
 org/dromara/okx/sign/OkxSigner$Sign.class
 org/dromara/okx/protocol/trade/OrdersHistory$Request__Javadoc.json
+org/dromara/okx/util/DataSyncUtil.class
 org/dromara/okx/domain/vo/SubPosCurrentVoToSubPosCurrentMapperImpl.class
 org/dromara/okx/protocol/CopyTrading/CopyTradingSubpositionsHistory$Request.class
 org/dromara/okx/domain/UserSwapConfigToUserSwapConfigVoMapperImpl.class
@@ -270,6 +273,7 @@ org/dromara/okx/api/AccountApi.class
 org/dromara/okx/protocol/CopyTrading/CopyTradingSubpositionsHistory.class
 io/github/linpeilie/AutoMapperConfig.class
 org/dromara/okx/protocol/trade/CancelAlgos$Request.class
+org/dromara/okx/util/KeyUtil.class
 org/dromara/okx/mapper/SubPosHisMapper.class
 org/dromara/okx/properties/OkxConfigProperties.class
 org/dromara/okx/protocol/trade/OrdersAlgoPending$Data.class
