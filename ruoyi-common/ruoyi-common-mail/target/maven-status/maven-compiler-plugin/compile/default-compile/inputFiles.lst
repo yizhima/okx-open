@@ -1,0 +1,9 @@
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/utils/MailUtils.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/utils/InternalMailUtil.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/utils/MailAccount.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/utils/UserPassAuthenticator.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/config/properties/MailProperties.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/config/MailConfig.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/utils/MailException.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/utils/Mail.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-mail/src/main/java/org/dromara/common/mail/utils/GlobalMailAccount.java

@@ -1,0 +1,7 @@
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-social/src/main/java/org/dromara/common/social/utils/SocialUtils.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-social/src/main/java/org/dromara/common/social/config/properties/SocialProperties.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-social/src/main/java/org/dromara/common/social/utils/AuthRedisStateCache.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-social/src/main/java/org/dromara/common/social/maxkey/AuthMaxKeySource.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-social/src/main/java/org/dromara/common/social/config/properties/SocialLoginConfigProperties.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-social/src/main/java/org/dromara/common/social/config/SocialAutoConfiguration.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-social/src/main/java/org/dromara/common/social/maxkey/AuthMaxKeyRequest.java

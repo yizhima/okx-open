@@ -1,0 +1,8 @@
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/properties/OssProperties.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/entity/UploadResult.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/enumd/AccessPolicyType.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/core/OssClient.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/enumd/PolicyType.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/factory/OssFactory.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/constant/OssConstant.java
+/home/runner/work/okx-open/okx-open/ruoyi-common/ruoyi-common-oss/src/main/java/org/dromara/common/oss/exception/OssException.java
